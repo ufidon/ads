@@ -1,22 +1,22 @@
-# ads
+# Data Structures
 Data Structures in C, C++, C#, Java, and Python 
 
 ## Modules
 
-1. Linear Data Structures
+1. [Linear Data Structures](./mod1/README.md)
    1. Lists, Stacks, Queues, and Priority Queues
    2. Sets and Maps
    3. Hashing
-2. Developing Efficient Algorithms
+2. [Developing Efficient Algorithms](./mod2/README.md)
    1. Sorting
    2. Implementing Lists, Stacks, Queues, and Priority Queues
-3. Trees
+3. [Trees](./mod3/README.md)
    1. Binary Search Trees
    2. AVL Trees
-4.  Graphs
+4.  [Graphs](./mod4/README.md)
     1.  Graphs and Applications
     2.  Weighted Graphs and Applications
-5.  Aggregate Operations for Collection Streams
+5.  [Aggregate Operations for Collection Streams](./mod5/README.md)
 
 ## [Setup JDK and IDE](https://media.pearsoncmg.com/ph/esm/ecs_liang_ijp_12/cw/#software)
 1. Download and install [Java JDK FX 11 (LTS) ](https://www.azul.com/downloads/?version=java-11-lts&os=windows&architecture=x86-64-bit&package=jdk) following the [instructions](https://docs.azul.com/core/zulu-openjdk/install/windows). **Note: Choose JDK FX**
