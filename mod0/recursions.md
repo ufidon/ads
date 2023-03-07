@@ -10,10 +10,10 @@ Motivations
 - Generate [fractal figures](https://en.wikipedia.org/wiki/Fractal)
   - generate *recursively*
 
-| name |  figure |
+| name |  figure (from Wikipedia) |
 | ---- |  ------ |
 | fractal canopy | ![fractal canopy](https://upload.wikimedia.org/wikipedia/commons/a/af/Simple_Fractals.png) |
-| Mandelbrot set | ![Mandelbrot set](https://upload.wikimedia.org/wikipedia/commons/a/a4/Mandelbrot_sequence_new.gif) |
+| Mandelbrot set | ![Mandelbrot set](https://upload.wikimedia.org/wikipedia/commons/b/b3/Mandel_zoom_07_satellite.jpg) |
 
 
 Objectives
