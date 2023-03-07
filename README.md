@@ -2,7 +2,9 @@
 Data Structures in C, C++, C#, Java, and Python 
 
 ## Modules
-
+0. [Recursions and generics](./mod0/README.md)
+   1. Recursions
+   2. Generics
 1. [Linear Data Structures](./mod1/README.md)
    1. Lists, Stacks, Queues, and Priority Queues
    2. Sets and Maps
@@ -23,9 +25,7 @@ Data Structures in C, C++, C#, Java, and Python
     1.  Java collection framework
     2.  C# collections
     3.  C++ standard templates
-7. [Recursions and generics](./mod7/README.md)
-   1. Recursions
-   2. Generics
+
 
 
 ## [Setup JDK and IDE](https://media.pearsoncmg.com/ph/esm/ecs_liang_ijp_12/cw/#software)
