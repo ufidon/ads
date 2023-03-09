@@ -1,3 +1,4 @@
-# Recursions and generics
+# Recursions, interfaces and generics
 - [Recursions](./recursions.md)
-- [Generics](./generics.md)
+- [Interfaces](./Interface.md)
+- [Generics](./Generics.md)

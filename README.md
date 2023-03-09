@@ -4,7 +4,8 @@ Data Structures in C, C++, C#, Java, and Python
 ## Modules
 0. [Recursions and generics](./mod0/README.md)
    1. Recursions
-   2. Generics
+   2. Interfaces
+   3. Generics
 1. [Linear Data Structures](./mod1/README.md)
    1. Lists, Stacks, Queues, and Priority Queues
    2. Sets and Maps
