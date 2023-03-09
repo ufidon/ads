@@ -91,7 +91,7 @@ public class TestGeometricObject {
 
 The [Number](https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/lang/Number.html) class is an abstract superclass for Double, Float, Long, Integer, Short, Byte, ­BigInteger, and BigDecimal.
 
-![number](../bookimages/13.number.jpg)
+![number](./images/13.number.jpg)
 
 ```java
 import java.util.ArrayList;
