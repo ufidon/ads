@@ -70,5 +70,9 @@ Now you have a clean environment. Follow the [demo video](https://youtu.be/oWIGI
 * [Introduction to Java Programming, Comprehensive, 12/E](https://media.pearsoncmg.com/bc/abp/cs-resources/products/product.html#product,isbn=0136519350)
   * [Student resources](https://media.pearsoncmg.com/ph/esm/ecs_liang_ijp_12/cw/)
   * [Source code](https://media.pearsoncmg.com/ph/esm/ecs_liang_ijp_12/cw/content/source-code.php)
-* [OpenJDK 11.0.11 Documentation](https://devdocs.io/openjdk~11/)
+* [OpenJDK 17 Documentation](https://devdocs.io/openjdk~17/)
+  * [OpenJDK 11.0.11 Documentation](https://devdocs.io/openjdk~11/)
+* [Package java.util](https://devdocs.io/openjdk~17/java.base/java/util/package-summary)
+  * [The Collections Framework](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/doc-files/coll-index.html)
+  * [Trail: Collections](https://docs.oracle.com/javase/tutorial/collections/index.html)
 

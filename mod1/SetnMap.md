@@ -271,7 +271,7 @@ Practice 📝 Count the Occurrences of Words in a Text
 - display the words and their occurrences in ascending order of the words
 - map a word (key) to its count (value)
   - increase the value for existing word (key) by 1
-  - add nonexisting word and value 1 to the map
+  - add nonexistent word and value 1 to the map
 
 ```java
 import java.util.*;
