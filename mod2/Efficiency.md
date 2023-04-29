@@ -102,7 +102,7 @@ Repetition: nested loops
   ```
 - Time complexity: $T(n) = cn^3 = O(n^3)$
 
-- partial sum: $S[i] = \sum_{k=1}^{i} k$
+- partial sum: $$S[i] = \sum_{k=1}^{i} k$$
   ```java
   for(i=1; i<=n; i++){
     for(k=1; k<=i; k++){
@@ -465,9 +465,9 @@ Practice 📝: the [string search problem](https://en.wikipedia.org/wiki/String-
 
 
 # Math appendix
-- $\sum_{k=1}^n k = \frac{n(n+1)}{2}$
-- $\sum_{k=0}^n a^k = \frac{a^{n+1}-1}{a-1}$
-  - $\sum_{k=0}^n 2^k = \frac{2^{n+1}-1}{2-1}=2^{n+1}-1$
+- $$\sum_{k=1}^n k = \frac{n(n+1)}{2}$$
+- $$\sum_{k=0}^n a^k = \frac{a^{n+1}-1}{a-1}$$
+- $$\sum_{k=0}^n 2^k = \frac{2^{n+1}-1}{2-1}=2^{n+1}-1$$
 
 # References
 - [VisualVM - All-in-One Java Troubleshooting Tool](https://visualvm.github.io/)
