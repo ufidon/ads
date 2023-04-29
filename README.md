@@ -76,3 +76,6 @@ Now you have a clean environment. Follow the [demo video](https://youtu.be/oWIGI
   * [The Collections Framework](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/doc-files/coll-index.html)
   * [Trail: Collections](https://docs.oracle.com/javase/tutorial/collections/index.html)
 
+## Online resources
+- [visualgo - visualize algorithms](https://visualgo.net/)
+
