@@ -38,7 +38,7 @@ Growth Rate
 ---
 - a theoretical measure of algorithm performance
 - find how fast the time consumed by a algorithm increases when the size of input increases
-  - $t=f(input\_size)$, find the function $f$
+  - $t=f(inputSize)$, find the function $f$
   - its *order of magnitude* is denoted by Big $O$
 - Constant time: $O(1)$
   - independent from the input size
@@ -102,7 +102,7 @@ Repetition: nested loops
   ```
 - Time complexity: $T(n) = cn^3 = O(n^3)$
 
-- partial sum: $S[i] = \sum_{k=1}^i k$
+- partial sum: $S[i] = \sum_{k=1}^{i} k$
   ```java
   for(i=1; i<=n; i++){
     for(k=1; k<=i; k++){
@@ -232,7 +232,8 @@ Common Recurrence Relations
 | $T(n)=T(n-1) + T(n-2) +O(1)$ | $T(n)=O(n^2)$ | Recursive Fibonacci algorithm |
 
 - Order of common growth functions
-  - $O(1)<O(\log n)<O(n)<O(n\log n)<O(n^2)<O(n^3)<O(2^n)$
+
+$$O(1) < O(\log n) < O(n) < O(n\log n) < O(n^2) < O(n^3) < O(2^n)$$
 
 
 Recursive [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_sequence) algorithm
