@@ -364,15 +364,15 @@ Radix Sort
 - order positive integers by their digits from right to left
   - only radix-number of buckets are needed, for decimal numbers, it is 10
 - time complexity: $O(dn)$
-  - $d$ - the maximum length of the digital strings
-  - $n$ - number of elements of the list
+  - $d$ - the maximum number of digits of the integers in the list
+  - $n$ - number of elements in the list
 
 
 External sort
 ---
 - sort data in a large external file with $n$ elements using a variation of merge sort
   - suppose internal sort can handle $N$ elements each time
-  - read a part of size $N$, sort a part, and save a part until done
+  - read a part of size $N$, sort it, and save the sorted part until done
     - denoted the sorted parts as $S_1, S_2, \cdots, S_n$
   - merge the sorted parts pairwise into $S_{(1,2)}, S_{(3,4)}, \cdots, S_{(n-1,n)}$
     - keep merging until done
