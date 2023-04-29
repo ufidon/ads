@@ -415,7 +415,8 @@ Practice 📝: solve the [Closest-pair problem](https://en.wikipedia.org/wiki/Cl
     - let $m$ in $S_1$, recursively find the closest pair $p_1$ and $p_2$ recursively
   - Step 3: Find the closest pair $p_3$ between $S_1$ and $S_2$. Then the closest pair is the closest one from $(p_1,p_2,p_3)$
     - Time complexity of Step 2 and Step 3: 
-    - $$T(n)=\underbrace{2T(\frac{n}{2})}_{Step\ 2} + \underbrace{O(n)}_{Step 3} = O(n\log n)$$
+      - $T(n) = 2T(\frac{n}{2})+O(n)=O(n\log n)$
+      - $T(n)=\underbrace{2T(\frac{n}{2})}_{Step\ 2} + \underbrace{O(n)}_{Step 3} = O(n\log n)$
 
 
 Practice 📝: solve the [eight queens problem](https://en.wikipedia.org/wiki/Eight_queens_puzzle) with backtracking
