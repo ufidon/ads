@@ -29,7 +29,7 @@ Modeling Using Graphs
 - us cities
   - ![us cities](./images/uscities.png)
 - [Seven Bridges of Königsberg](https://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg)
-  - [Seven Bridges of Königsberg](./images/seven.png)
+  - ![Seven Bridges of Königsberg](./images/seven.png)
 
 
 Explore 🔎 graph animation
