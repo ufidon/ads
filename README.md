@@ -66,16 +66,48 @@ If you have other Java JDK or old Visual Studio code polluted your system render
 
 Now you have a clean environment. Follow the [demo video](https://youtu.be/oWIGI9AUYqU) to reinstall JDK FX and Visual Studio Code.
 
-## Reference textbooks
+## Reference textbooks and classes
 * [Introduction to Java Programming, Comprehensive, 12/E](https://media.pearsoncmg.com/bc/abp/cs-resources/products/product.html#product,isbn=0136519350)
   * [Student resources](https://media.pearsoncmg.com/ph/esm/ecs_liang_ijp_12/cw/)
   * [Source code](https://media.pearsoncmg.com/ph/esm/ecs_liang_ijp_12/cw/content/source-code.php)
+* [Foundations of Algorithms 5th](https://www.jblearning.com/catalog/productdetails/9781284049190)
+* [10 Best Data Structures and Algorithms Books](https://www.interviewbit.com/blog/data-structures-and-algorithms-books/)
+  * [Introduction to Algorithms, Fourth Edition](https://mitpress.mit.edu/books/introduction-algorithms-fourth-edition)
+    * [Introduction to Algorithms 6.006](https://github.com/MahmoudAbdelazim/MIT-Algorithms-6.006)
+    * [Solutions to CLRS](https://github.com/gzc/CLRS)
+    * [Problem Sets](https://github.com/avhn/MIT6006)
+  * [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/)
+    * [source code](https://github.com/kevin-wayne/algs4)
+  * [Data Structures and Algorithm Analysis in C++, 4th Edition](https://www.pearson.com/us/higher-education/program/Weiss-Data-Structures-and-Algorithm-Analysis-in-C-4th-Edition/PGM148299.html)
+    * [author website](http://users.cs.fiu.edu/~weiss/)
+  * [Data Structures and Algorithm Analysis in Java, 3rd Edition](https://www.pearson.com/us/higher-education/program/Weiss-Data-Structures-and-Algorithm-Analysis-in-Java-3rd-Edition/PGM324443.html)
+  * [Introduction to Python Programming and Data Structures](https://www.pearson.com/us/higher-education/program/Liang-Revel-for-Introduction-to-Python-Programming-and-Data-Structures-Access-Card/PGM2473207.html)
+* [Top 10 Free Data Structure and Algorithms Courses for Beginners — Best of Lot](https://medium.com/javarevisited/top-10-free-data-structure-and-algorithms-courses-for-beginners-best-of-lot-ad807cc55f7a)
+* [Stanford Computer Science](https://www.classcentral.com/list/stanford-pgqmp1a2b89)
+  * [CS161 Design and Analysis of Algorithms Winter 2022](https://stanford-cs161.github.io/winter2022/schedule/)
+    * [code 2020](https://github.com/suhassrivats/Stanford-Data-Structures-and-Algorithms)
+    * [Fall 2017](http://web.stanford.edu/class/archive/cs/cs161/cs161.1182/index.html)
+  * [CS166 Data Structures](http://web.stanford.edu/class/cs166/)
+
+
+## Online resources
+* [visualgo - visualize algorithms](https://visualgo.net/)
+* [Liang animation](https://liveexample.pearsoncmg.com/liang/animation/animation.html)
+* [Visualize code execution](https://pythontutor.com/)
+* [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+* [Algovis](https://chiranjeevikarthik.me/Algovis/)
+  * [source code](https://github.com/karthikchiru12/Algovis)
+* [Algovis.io](https://tobinatore.github.io/algovis/index.html)
+  * [source code](https://github.com/hotshot07/algovis)
+* [visualgo](https://visualgo.net/en)
+* [CS1332 Data Structures and Algorithms Visualizations](https://csvistool.com/)
+* [kalkicode](https://kalkicode.com/)
+* [Linked list visualization](https://antoniosarosi.github.io/Linked-List-Visualization/)
+* [Graph editor](https://csacademy.com/app/graph_editor/)
+* [Graph online](https://graphonline.ru/en/)
 * [OpenJDK 17 Documentation](https://devdocs.io/openjdk~17/)
   * [OpenJDK 11.0.11 Documentation](https://devdocs.io/openjdk~11/)
 * [Package java.util](https://devdocs.io/openjdk~17/java.base/java/util/package-summary)
   * [The Collections Framework](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/doc-files/coll-index.html)
   * [Trail: Collections](https://docs.oracle.com/javase/tutorial/collections/index.html)
 
-## Online resources
-- [visualgo - visualize algorithms](https://visualgo.net/)
-- [Liang animation](https://liveexample.pearsoncmg.com/liang/animation/animation.html)
