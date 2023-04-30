@@ -211,5 +211,7 @@ Priority queue
   ```
 
 
-# References
+
+# Online resources
+- [visualgo - visualize algorithms](https://visualgo.net/)
 - [Liang animation](https://liveexample.pearsoncmg.com/liang/animation/animation.html)

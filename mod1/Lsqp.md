@@ -656,3 +656,8 @@ Case Study: Evaluating Expressions using stacks
     - the two operands are popped from operandStack
     - the resultant value is pushed back to operandStack
 - [source code](./demos/EvaluateExpression.java)
+
+
+## Online resources
+- [visualgo - visualize algorithms](https://visualgo.net/)
+- [Liang animation](https://liveexample.pearsoncmg.com/liang/animation/animation.html)

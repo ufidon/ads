@@ -152,3 +152,8 @@ Practice ✏️
   - [TestMyHashSet.java](./demos/TestMyHashSet.java)
   - [MyHashSet.java](./demos/MyHashSet.java)
   - [MySet.java](./demos/MySet.java)
+
+
+## Online resources
+- [visualgo - visualize algorithms](https://visualgo.net/)
+- [Liang animation](https://liveexample.pearsoncmg.com/liang/animation/animation.html)

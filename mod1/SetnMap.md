@@ -318,3 +318,8 @@ The Singleton and Unmodifiable Collections
   - unmodifiableSet(s: Set): Set
   - unmodifiableSortedMap(s: SortedMap): SortedMap
   - unmodifiableSortedSet(s: SortedSet): SortedSet
+
+
+## Online resources
+- [visualgo - visualize algorithms](https://visualgo.net/)
+- [Liang animation](https://liveexample.pearsoncmg.com/liang/animation/animation.html)
