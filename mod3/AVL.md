@@ -23,7 +23,7 @@ Why AVL Tree?
   - maximum height $O(\log n)$
 
 
-Explore 🔍 try AVL tree animation
+Explore 🔍  AVL tree animation
 ---
 - [Liang animation](https://liveexample.pearsoncmg.com/liang/animation/animation.html)
 
