@@ -1,5 +1,5 @@
-# Data Structures
-Data Structures in C, C++, C#, Java, and Python 
+# Data Structures and Algorithms
+Data Structures and algorithms in C, C++, C#, Java, and Python 
 
 ## Modules
 0. [Recursions and generics](./mod0/README.md)
@@ -22,7 +22,7 @@ Data Structures in C, C++, C#, Java, and Python
     1.  Graphs and Applications
     2.  Weighted Graphs and Applications
 5.  [Aggregate Operations for Collection Streams](./mod5/README.md)
-6.  [Implemented data structures](./mod6/README.md)
+6.  [Implemented data structures and algorithms](./mod6/README.md)
     1.  Java collection framework
     2.  C# collections
     3.  C++ standard templates
@@ -91,24 +91,32 @@ Now you have a clean environment. Follow the [demo video](https://youtu.be/oWIGI
 
 
 ## Online resources
-* [visualgo - visualize algorithms](https://visualgo.net/)
-* [Liang animation](https://liveexample.pearsoncmg.com/liang/animation/animation.html)
-* [Visualize code execution](https://pythontutor.com/)
-* [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-* [Algovis](https://chiranjeevikarthik.me/Algovis/)
-  * [source code](https://github.com/karthikchiru12/Algovis)
-* [Algovis.io](https://tobinatore.github.io/algovis/index.html)
-  * [source code](https://github.com/hotshot07/algovis)
-* [visualgo](https://visualgo.net/en)
-* [CS1332 Data Structures and Algorithms Visualizations](https://csvistool.com/)
-* [Algorithm Tutor](https://algorithmtutor.com/)
-* [kalkicode](https://kalkicode.com/)
-* [Linked list visualization](https://antoniosarosi.github.io/Linked-List-Visualization/)
-* [Graph editor](https://csacademy.com/app/graph_editor/)
-* [Graph online](https://graphonline.ru/en/)
-* [OpenJDK 17 Documentation](https://devdocs.io/openjdk~17/)
-  * [OpenJDK 11.0.11 Documentation](https://devdocs.io/openjdk~11/)
-* [Package java.util](https://devdocs.io/openjdk~17/java.base/java/util/package-summary)
-  * [The Collections Framework](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/doc-files/coll-index.html)
-  * [Trail: Collections](https://docs.oracle.com/javase/tutorial/collections/index.html)
-
+* _Wikipedia_
+  * [List of data structures](https://en.wikipedia.org/wiki/List_of_data_structures)
+  * [List of algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
+* _Algorithm visualization_
+  * [visualgo - visualize algorithms](https://visualgo.net/)
+  * [Liang animation](https://liveexample.pearsoncmg.com/liang/animation/animation.html)
+  * [Visualize code execution](https://pythontutor.com/)
+  * [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+  * [Algovis](https://chiranjeevikarthik.me/Algovis/)
+    * [source code](https://github.com/karthikchiru12/Algovis)
+  * [Algovis.io](https://tobinatore.github.io/algovis/index.html)
+    * [source code](https://github.com/hotshot07/algovis)
+  * [visualgo](https://visualgo.net/en)
+  * [CS1332 Data Structures and Algorithms Visualizations](https://csvistool.com/)
+  * [Algorithm Tutor](https://algorithmtutor.com/)
+  * [kalkicode](https://kalkicode.com/)
+  * [Linked list visualization](https://antoniosarosi.github.io/Linked-List-Visualization/)
+* _online tools_
+  * [Graph editor](https://csacademy.com/app/graph_editor/)
+  * [Graph online](https://graphonline.ru/en/)
+* _Java_
+  * [OpenJDK 17 Documentation](https://devdocs.io/openjdk~17/)
+    * [OpenJDK 11.0.11 Documentation](https://devdocs.io/openjdk~11/)
+  * [Package java.util](https://devdocs.io/openjdk~17/java.base/java/util/package-summary)
+    * [The Collections Framework](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/doc-files/coll-index.html)
+    * [Trail: Collections](https://docs.oracle.com/javase/tutorial/collections/index.html)
+  * [Algorithms in Java](https://github.com/williamfiset/Algorithms)
+* _C++_
+  * [boost](https://www.boost.org/)
