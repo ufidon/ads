@@ -1,4 +1,4 @@
-# red-black trees
+# Red-Black Trees
 chapter 43
 
 
@@ -195,7 +195,7 @@ Overriding the delete Method
       - ![case 1.2](./images/rbtdel12.png)
       -  Case 1.3: The sibling $y$ of $childOfu$ is black and $y_1$ is red
       - ![case 1.3](./images/rbtdel13.png) 
-      -  Case 1.4: the sibling $y$ of $childOfu$ is black and $y2_$ is red
+      -  Case 1.4: the sibling $y$ of $childOfu$ is black and $y_2$ is red
       - ![case 1.4](./images/rbtdel14.png) 
     - case 1 corresponds to a transfer operation in the corresponding 2-4 tree
     - ![case 1 corresponds to a transfer operation in the corresponding 2-4 tree](./images/rbtdelc1.png)
