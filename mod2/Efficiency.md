@@ -407,7 +407,7 @@ Practice 📝: solve the [Closest-pair problem](https://en.wikipedia.org/wiki/Cl
 ---
 - Given a set of points, find the two points that are nearest to each other
 - brute force: computes the distances between all pairs of points and finds the one with the minimum distance
-  - Time complexity: $T(n)={n \choose 2} = \frac{n(n-1)}{2} = O(\frac{n\sqrt{n}}{\log n})$
+  - Time complexity: $T(n)={n \choose 2} = \frac{n(n-1)}{2} = O(n^2)$
 - divide-and-conquer
   - Step 1: sort the points in increasing order of x-coordinates then y-coordinates into a sorted list $S$ of points
     - Time complexity with mergesort: $T(n) = O(n\log n)$
@@ -416,7 +416,7 @@ Practice 📝: solve the [Closest-pair problem](https://en.wikipedia.org/wiki/Cl
   - Step 3: Find the closest pair $p_3$ between $S_1$ and $S_2$. Then the closest pair is the closest one from $(p_1,p_2,p_3)$
     - Time complexity of Step 2 and Step 3: 
       - $T(n) = 2T(\frac{n}{2})+O(n)=O(n\log n)$
-      - $T(n)=\underbrace{2T(\frac{n}{2})}_{Step\ 2} + \underbrace{O(n)}_{Step 3} = O(n\log n)$
+      - $`T(n)=\underbrace{2T(\frac{n}{2})}_{Step\ 2} + \underbrace{O(n)}_{Step 3} = O(n\log n)`$
 
 
 Practice 📝: solve the [eight queens problem](https://en.wikipedia.org/wiki/Eight_queens_puzzle) with backtracking
